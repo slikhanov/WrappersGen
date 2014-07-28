@@ -38,3 +38,5 @@ Icon
 *.suo
 bin/
 obj/
+
+WrappersGen/WrappersGen.csproj.user
